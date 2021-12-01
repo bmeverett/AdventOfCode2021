@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "Repo to work through AdventOfCode 2021 problems",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmeverett/AdventOfCode2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmeverett/AdventOfCode2021/issues"
+  },
+  "homepage": "https://github.com/bmeverett/AdventOfCode2021#readme"
+}
